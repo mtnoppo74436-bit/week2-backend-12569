@@ -1,0 +1,11 @@
+"use strict";
+console.log("Welcome to typescript!");
+let message = "Hello, TypeScript!";
+message = "TypeScript is great!";
+const age = 30;
+var isAdmin = true;
+// console.log(message, age, isAdmin);
+//console.log("Message:", message, "Age:", age, "Is Admin:", isAdmin); 
+console.log(`Message: ${message}`);
+console.log(`Age: ${age}`);
+console.log(`Is Admin: ${isAdmin}`);
